@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226563044025",
+    "project_id": "brew-crew-9e451",
+    "storage_bucket": "brew-crew-9e451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226563044025:android:b84bdccf7ffa1be95fe168",
+        "android_client_info": {
+          "package_name": "com.amentag.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226563044025-ecu6b4ll1ohtbg4b90uhcmt1pv843qfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHu-vIkXdLYeqMLpvMlEinrKsaCFJ6Le8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226563044025-ecu6b4ll1ohtbg4b90uhcmt1pv843qfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

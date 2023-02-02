@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "4581a15273f94d03f52200edc4a336cb"
+build_time: [1675358227, 860355000]
+inputs:
+  "/goinfre/amentag/brew_crew/macos/Runner/MainFlutterWindow.swift": [1671141058, 0]
+  "/goinfre/amentag/brew_crew/macos/Runner/AppDelegate.swift": [1671141058, 0]
+  "/goinfre/amentag/brew_crew/macos/Flutter/GeneratedPluginRegistrant.swift": [1675358222, 660347781]
